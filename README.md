@@ -23,4 +23,4 @@ and open them in browser:
 
 ## What's additional
 
-You will find my notebooks in notebooks folder, you can delete them without any worry.
+You will find my notebooks in notebooks folder, my graphs in logs folder, you can delete them without any worry.
